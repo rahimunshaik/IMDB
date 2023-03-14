@@ -1,2 +1,2 @@
 # IMDB
-This is mini IMDB clone app. Using ONLY vanilla javascript, no libraries or frameworks allowed for Javascript. (used some CSS framework like Bootstrap).
+This is a mini IMDB clone app. Using ONLY vanilla JavaScript, no libraries or frameworks are allowed for JavaScript. (used some CSS framework like Bootstrap).
